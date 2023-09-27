@@ -1,2 +1,0 @@
-# myweb.io
-My Blog
